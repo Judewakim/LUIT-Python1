@@ -16,7 +16,6 @@
 #COMPLEX
 #Turn the above into a Function and execute the Function to verify it works
 
-
 def generate_random_name():
     # Import necessary modules: random for generating random values, string for predefined character sets
     import random
